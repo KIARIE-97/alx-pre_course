@@ -1,1 +1,1 @@
-My first readme
+learng git is cool
